@@ -18,7 +18,7 @@ The core components of the rice is here already: Hyprland, Quickshell, Caelestia
 
 Before starting, you should have:
 
-- have `git`, `rsync`, `base-devel`, and `flatpak` pkgs
+-  `git`, `rsync`, `base-devel`, and `flatpak` pkgs
 
 Install the base tools first:
 
