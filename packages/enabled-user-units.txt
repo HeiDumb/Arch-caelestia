@@ -1,0 +1,12 @@
+UNIT FILE                    STATE   PRESET
+airpods-audio-watch.service  enabled enabled
+hypr-game-focus-mode.service enabled enabled
+system-theme-sync.service    enabled enabled
+wireplumber.service          enabled enabled
+xdg-user-dirs.service        enabled enabled
+p11-kit-server.socket        enabled enabled
+pipewire-pulse.socket        enabled enabled
+pipewire.socket              enabled enabled
+clear-ram.timer              enabled enabled
+
+9 unit files listed.
