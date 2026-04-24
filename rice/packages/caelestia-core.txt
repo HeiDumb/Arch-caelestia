@@ -1,6 +1,0 @@
-quickshell-git
-wallust
-python-materialyoucolor
-ttf-rubik-vf
-caelestia-shell
-caelestia-cli
