@@ -29,7 +29,7 @@ sudo pacman -S --needed git rsync base-devel flatpak
 Clone the repo:
 
 ```bash
-git clone git@github.com:<your-user>/rice.git
+git clone https://github.com/HeiDumb/Arch-caelestia
 cd rice
 ```
 
