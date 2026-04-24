@@ -1,10 +1,4 @@
-# Arch System Repo
-
-Snapshot of the current Arch Linux setup from `/home/hei`, packaged into a GitHub-friendly repo layout.
-
-This export is aimed at reproduction, backup, and documentation. It includes desktop dotfiles, shell config, Quickshell/Caelestia setup, app configs, user services, scripts, package manifests, and restore docs. It deliberately excludes obvious secrets, auth stores, browser/session storage, and very large runtime asset folders.
-
-Generated on `2026-04-24`.
+# Arch + Caelestia shell
 
 ## Layout
 
