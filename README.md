@@ -30,7 +30,7 @@ Clone the repo:
 
 ```bash
 git clone https://github.com/HeiDumb/Arch-caelestia
-cd rice
+cd Arch+caelestia
 ```
 
 If you want to review what will be installed before doing anything big, check these first:
