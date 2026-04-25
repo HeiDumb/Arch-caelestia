@@ -1,0 +1,9 @@
+airpods-audio-watch.service
+hypr-game-focus-mode.service
+system-theme-sync.service
+wireplumber.service
+xdg-user-dirs.service
+p11-kit-server.socket
+pipewire-pulse.socket
+pipewire.socket
+clear-ram.timer

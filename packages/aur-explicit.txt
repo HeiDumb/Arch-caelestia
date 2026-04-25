@@ -1,0 +1,16 @@
+caelestia-cli
+caelestia-shell
+fzf-tab-git
+i3lock-color
+neofetch
+nier-cursors-bin
+proton-ge-custom
+quickshell-git
+simple-mtpfs
+swww-debug
+vencord
+wallust
+xwinwrap-0.9-bin
+yay
+yay-debug
+zen-browser-bin
